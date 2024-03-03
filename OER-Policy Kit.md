@@ -28,11 +28,11 @@ Trotz unterschiedlicher Ausgangslagen gibt es Schritte, die alle Hochschulen auf
 - Was soll die Policy enthalten?
 - 
 
-![link](Uebung8.pdf)
+[link](Uebung8.pdf)
 <br>
-![link]([Uebung8.pdf](https://github.com/mahsankavyani/test/blob/main/Uebung8.pdf))
+[link]([Uebung8.pdf](https://github.com/mahsankavyani/test/blob/main/Uebung8.pdf))
 <br>
-![link](https://github.com/mahsankavyani/test/blob/main/Uebung8.pdf)
+[link](https://github.com/mahsankavyani/test/blob/main/Uebung8.pdf)
 <br>
 ## Überblick verschaffen
 
