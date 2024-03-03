@@ -26,10 +26,10 @@ Trotz unterschiedlicher Ausgangslagen gibt es Schritte, die alle Hochschulen auf
 - Wo und wie anfangen?
 
 - Was soll die Policy enthalten?
+<br>
+![link](Uebung8.pdf)
 
-![link](/Uebung8.pdf)
-
-
+<br>
 ## Überblick verschaffen
 
 Die ersten Schritte in der Entwicklung einer OER-Policy sind entscheidend und werden stark von Ihrer Ausgangssituation und Perspektive beeinflusst. Unabhängig davon, wo Sie beginnen, stellen sich die gleichen grundlegenden Fragen, wenn auch mit unterschiedlichen Schwerpunkten und Nuancen.
