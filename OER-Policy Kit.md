@@ -26,13 +26,17 @@ Trotz unterschiedlicher Ausgangslagen gibt es Schritte, die alle Hochschulen auf
 - Wo und wie anfangen?
 
 - Was soll die Policy enthalten?
-<br>
-![link](Uebung8.pdf)
+- 
 
+![link](Uebung8.pdf)
+<br>
+![link]([Uebung8.pdf](https://github.com/mahsankavyani/test/blob/main/Uebung8.pdf))
+<br>
+![link](https://github.com/mahsankavyani/test/blob/main/Uebung8.pdf)
 <br>
 ## Überblick verschaffen
 
-Die ersten Schritte in der Entwicklung einer OER-Policy sind entscheidend und werden stark von Ihrer Ausgangssituation und Perspektive beeinflusst. Unabhängig davon, wo Sie beginnen, stellen sich die gleichen grundlegenden Fragen, wenn auch mit unterschiedlichen Schwerpunkten und Nuancen.
+Die ersten Schritte in der Entwickung einer OER-Policy sind entscheidend und werden stark von Ihrer Ausgangssituation und Perspektive beeinflusst. Unabhängig davon, wo Sie beginnen, stellen sich die gleichen grundlegenden Fragen, wenn auch mit unterschiedlichen Schwerpunkten und Nuancen.
 
 Eine gute Vorbereitung ist hier der Schlüssel: Indem Sie sich der verschiedenen Aspekte und möglichen Herausforderungen bewusst werden, können Sie effektiver planen und agieren. Dieser proaktive Ansatz hilft Ihnen, den Prozess der Policy-Entwicklung nicht nur zu navigieren, sondern auch zu gestalten, um eine OER-Policy zu entwickeln, die sowohl fundiert als auch zukunftsorientiert ist. Unabhängig davon, ob Sie nun einen offiziellen Auftrag haben oder selbst die Initiative ergreifen, das Engagement für OER-Policies ist immer auch ein Plädoyer für die Philosophie von OER selbst.
 
