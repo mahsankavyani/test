@@ -27,7 +27,7 @@ Trotz unterschiedlicher Ausgangslagen gibt es Schritte, die alle Hochschulen auf
 
 - Was soll die Policy enthalten?
 
-[link](Uebung8.pdf)
+![link](Uebung8.pdf)
 
 ## Überblick verschaffen
 
