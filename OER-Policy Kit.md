@@ -15,7 +15,11 @@ Herzlich willkommen!
 <iframe src="https://raw.githack.com/Siczer/OER-Policy-Kit/main/Mat_Change-Cards.pdf" width="100%" height="759" frameborder="0" scrolling="no"></iframe><script src="https://raw.githack.com/Siczer/OER-Policy-Kit/main/Mat_Change-Cards.pdf" charset="UTF-8"></script>
 
 Immer mehr Hochschulen in Deutschland bekennen sich zu OER und wollen durch eine Richtlinie ein Signal für Lehrende setzen, dass sie das Erstellen und Teilen von OER gutheißen. Der Weg zu dieser Richtlinie – auch als OER-Policy bezeichnet – kann je nach Hochschule sehr unterschiedlich sein. An einer kleineren Hochschule, wo die Entscheidungswege eher kurz sind, kann der OER-Policy-Prozess entsprechend einfach und schnell sein. An einer größeren Hochschule kann der Weg zu einer OER-Policy hingegen länger dauern, etwa, weil der Beteiligtenkreis größer ist. Neben der bereits angesprochenen Größe der Hochschule bestimmen auch viele weitere Faktoren, wie sich der Entstehungsprozess einer OER-Policy gestaltet, beispielsweise das Stimmungsbild zu OER in Entscheidungskreisen und die Herangehensweise bei der Policy-Entwicklung - top-down oder bottom-up, mehr oder weniger partizipativ usw.
-
+<details>
+ <summary>**Hochschulleitung**</summary>
+Für eine erfolgreiche OER-Policy ist es entscheidend, die Hochschulleitung frühzeitig einzubinden, unabhängig davon, ob Sie einen Bottom-Up- oder Top-Down-Ansatz verfolgen. Präsentieren Sie Ihre geplante Vorgehensweise und Roadmap klar und überzeugend. Die Kommunikation mit Entscheidungsträger:innen wie Vizepräsident:innen oder Prorektor:innen sollte sorgfältig geplant werden, um deren Verständnis und Unterstützung für die Potenziale von OER zu gewinnen. Nutzen Sie dabei anschauliche Materialien (Inspiration finden Sie in der Powerpoint-Präsentation ‚tbn‘), um die Ziele und den erwarteten Impact der OER-Policy zu verdeutlichen. Thematische Vorbereitung kann auch zum Thema OER-Impact-Forschung hilfreich sein (der Diskurs verweist hier klar auf die Notwendigkeit eines Kulturwandels, eine zusmmenfassende Darstellung dazu findet sich z.B. bei [Paper? Sollen wir da eins andenken, sonst würde ich auf Otto, Deimann und Beaver verweisen]
+</details>
+<br>
 Trotz unterschiedlicher Ausgangslagen gibt es Schritte, die alle Hochschulen auf dem Weg zu einer Policy machen und die Fragen, die sich alle stellen, die einen entsprechenden Prozess anstoßen, nämlich
 
 - Wo und wie anfangen?
