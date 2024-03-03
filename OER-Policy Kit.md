@@ -12,7 +12,7 @@ Herzlich willkommen!
 
 ## Einleitung
 
-
+![Uebung8.pdf](https://github.com/mahsankavyani/test/blob/main/Uebung8.pdf)
 Immer mehr Hochschulen in Deutschland bekennen sich zu OER und wollen durch eine Richtlinie ein Signal für Lehrende setzen, dass sie das Erstellen und Teilen von OER gutheißen. Der Weg zu dieser Richtlinie – auch als OER-Policy bezeichnet – kann je nach Hochschule sehr unterschiedlich sein. An einer kleineren Hochschule, wo die Entscheidungswege eher kurz sind, kann der OER-Policy-Prozess entsprechend einfach und schnell sein. An einer größeren Hochschule kann der Weg zu einer OER-Policy hingegen länger dauern, etwa, weil der Beteiligtenkreis größer ist. Neben der bereits angesprochenen Größe der Hochschule bestimmen auch viele weitere Faktoren, wie sich der Entstehungsprozess einer OER-Policy gestaltet, beispielsweise das Stimmungsbild zu OER in Entscheidungskreisen und die Herangehensweise bei der Policy-Entwicklung - top-down oder bottom-up, mehr oder weniger partizipativ usw.
 
 <details>
